@@ -1,4 +1,4 @@
-# Switch-SD-Tool-NX
+# Switch SD Tool NX
 This is a eMMC reader/writer for the Nintendo Switch. 
 
 After seeing the general purpose eMMC adapter Maximus made, it gave me the idea to make a solderless version for the Switch.
